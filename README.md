@@ -10,11 +10,12 @@ This dashboard is provided as a solution to the above request. The goal of this 
 ## How to use the dashboard
 
 *   **Serving up the dashboard on a browser**
+
     This dashboard can be served up in a browser. Please run the panel serve from the directory which has the dashboard.ipynb
-````
+    ````
     conda activate pyvizenv
     panel serve --show dashboard.ipynb
-````
+    ````
 
 The dashboard is divided into four separate tabs as detailed below:
 *   **Welcome**
